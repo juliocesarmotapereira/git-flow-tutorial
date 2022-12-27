@@ -1,1 +1,21 @@
 # git-flow-tutorial
+
+- git / github
+- feature
+- develop
+- release 
+- hotfix
+- main
+- git flow feature start css
+- git clone
+- git init flow init
+- git flow featuare start
+- git checkout develop
+- git brach
+- git checkou feature / css
+- git flow feature finish css
+- git flow feature publish css
+- git flow start 1.0
+- git flow release finish 1.0
+- :wq (salvar)
+- git push --all
